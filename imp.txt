@@ -1,0 +1,10 @@
+react js - front end
+node js - back end
+mongodb - database
+
+full stack hotel booking application without redux i.e. without state management tool
+
+
+3 CSS Frameworks - Bootstrap, React Bootstrap, Andy
+	Andy and React bootstrap are for small purposes
+
